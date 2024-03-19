@@ -39,7 +39,12 @@ I’m currently working on **Physics engine in C++**
 
 A physics engine under development to simulate rigid bodies, fluids, etc. The goal is to create a realistic and efficient simulation environment.
 
-### ZKP Research
+### [ZKP Research](https://github.com/baptisteParpette/ZKP-research)
 
 An exploration of zero-knowledge proofs (ZKPs) and their applications in blockchains and decentralized finance. This project aims to explain ZKPs to non-experts.
+
+### [AMM-Simulator](https://github.com/baptisteParpette/AMM-Simulator)
+
+This project is an Automated Market Maker (AMM) simulator like Uniswap, written in Python. An AMM is a decentralized cryptocurrency exchange protocol that uses liquidity pools and mathematical formulas to determine prices and perform exchanges automatically. In this simulation you can create a pool and interact with a user (add/remove liquidity, swap tokens)
+
 
